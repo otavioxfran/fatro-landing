@@ -8,7 +8,7 @@ import { PartnerCTA } from "@/components/PartnerCTA";
 import { ResponsibleGamingBlock } from "@/components/ResponsibleGamingBlock";
 
 export const metadata: Metadata = {
-  title: "Home",
+  title: "FATRO Tips | Alertas pré-jogo +18",
 };
 
 export default function HomePage() {
